@@ -1,0 +1,1 @@
+# Agspert-product-inventory
