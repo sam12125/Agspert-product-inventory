@@ -1,3 +1,7 @@
+# Deployed link
+
+https://66556f7072e7fcb4af5f7a45--legendary-palmier-4118a0.netlify.app/
+
 # Username & password for login 
 
 Username - user
