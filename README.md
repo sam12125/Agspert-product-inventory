@@ -1,6 +1,6 @@
 # Deployed link
 
-https://66556f7072e7fcb4af5f7a45--legendary-palmier-4118a0.netlify.app/
+https://6657129807c641a2ee089e03--jazzy-zabaione-3f30ec.netlify.app/
 
 # Username & password for login 
 
